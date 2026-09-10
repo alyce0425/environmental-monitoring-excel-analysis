@@ -51,6 +51,10 @@ The analysis included:
 - Air samples had a slightly higher average CFU count (4.9) than Surface samples (4.6), although the difference was small.
 - CFU counts fluctuated throughout the monitoring period, with no consistent upward or downward trend.
 
+## Dashboard
+
+![Environmental Monitoring Dashboard](environmental_monitoring_dashboard.png)
+
 ## Recommendation
 
 Based on the results, continued monitoring of ISO8-A is recommended along with a review of Alert and Action level results to determine whether recurring patterns are present and whether additional sampling or cleaning may be warranted.
