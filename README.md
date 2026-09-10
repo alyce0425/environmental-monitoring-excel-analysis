@@ -46,11 +46,11 @@ The analysis included:
 ## Key Findings
 
 - ISO8-A had the highest average CFU count at 7.4.
-- Action-level results occurred on 8/3, 8/9, and 8/16.
+- Action level results occurred on 8/3, 8/9, and 8/16.
 - 60% of samples remained within established limits, while 8 samples reached Alert or Action status.
 - Air samples had a slightly higher average CFU count (4.9) than Surface samples (4.6), although the difference was small.
 - CFU counts fluctuated throughout the monitoring period, with no consistent upward or downward trend.
 
 ## Recommendation
 
-Based on the results, continued monitoring of ISO8-A is recommended, along with a review of Alert- and Action-level results to determine whether recurring patterns are present and whether additional sampling or cleaning may be warranted.
+Based on the results, continued monitoring of ISO8-A is recommended along with a review of Alert and Action level results to determine whether recurring patterns are present and whether additional sampling or cleaning may be warranted.
